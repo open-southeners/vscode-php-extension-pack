@@ -1,0 +1,42 @@
+{
+  "name": "vscode-php-extension-pack",
+  "displayName": "PHP Extension Pack",
+  "description": "Essential extensions for general PHP development",
+  "publisher": "open-southeners",
+  "icon": "icon.jpg",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.66.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "bmewburn.vscode-intelephense-client",
+    "open-southeners.php-support-utils",
+    "calebporzio.better-phpunit",
+    "xdebug.php-debug",
+    "mikestead.dotenv",
+    "vscode-icons-team.vscode-icons",
+    "wayou.vscode-todo-highlight",
+    "EditorConfig.EditorConfig",
+    "brpaz.contextual-snips",
+    "pixelfear.composer-links",
+    "alefragnani.Bookmarks",
+    "Kasik96.latte"
+  ],
+  "bugs": {
+    "url": "https://github.com/open-southeners/vscode-php-extension-pack/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/open-southeners/vscode-php-extension-pack.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "deploy": "vsce publish --yarn"
+  },
+  "devDependencies": {
+    "vsce": "^2.7.0"
+  }
+}
