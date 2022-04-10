@@ -6,4 +6,14 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.0.1] - 2022-04-10
+
+### Changed
+
+- Some minor updates to the published version
+
+## [1.0.0] - 2022-04-10
+
+### Added
+
 - Initial release
