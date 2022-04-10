@@ -2,9 +2,10 @@
   "name": "vscode-php-extension-pack",
   "displayName": "PHP Extension Pack",
   "description": "Essential extensions for general PHP development",
+  "keywords": ["php", "development", "web", "pack", "language", "support", "tools", "awesome"],
   "publisher": "open-southeners",
   "icon": "icon.jpg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.66.0"
   },
