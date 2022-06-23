@@ -2,10 +2,19 @@
   "name": "vscode-php-extension-pack",
   "displayName": "PHP Extension Pack",
   "description": "Essential extensions for general PHP development",
-  "keywords": ["php", "development", "web", "pack", "language", "support", "tools", "awesome"],
+  "keywords": [
+    "php",
+    "development",
+    "web",
+    "pack",
+    "language",
+    "support",
+    "tools",
+    "awesome"
+  ],
   "publisher": "open-southeners",
   "icon": "icon.jpg",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.66.0"
   },
@@ -14,6 +23,7 @@
   ],
   "extensionPack": [
     "bmewburn.vscode-intelephense-client",
+    "open-southeners.laravel-pint",
     "open-southeners.php-support-utils",
     "calebporzio.better-phpunit",
     "xdebug.php-debug",
@@ -38,6 +48,6 @@
     "deploy": "vsce publish --yarn"
   },
   "devDependencies": {
-    "vsce": "^2.7.0"
+    "vsce": "^2.9.2"
   }
 }

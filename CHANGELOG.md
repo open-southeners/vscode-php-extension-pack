@@ -6,6 +6,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.1.0] - 2022-06-24
+
+### Added
+
+- Laravel Pint 🍺
+
 ## [1.0.1] - 2022-04-10
 
 ### Changed

@@ -5,6 +5,7 @@ Essential extensions for general PHP development
 ## Which extensions are included?
 
 - PHP Intelephense [[Marketplace](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)] [[Github](https://github.com/bmewburn/vscode-intelephense.git)]
+- Laravel Pint [[Marketplace](https://marketplace.visualstudio.com/items?itemName=open-southeners.laravel-pint)] [[Github](https://github.com/open-southeners/vscode-laravel-pint.git)]
 - PHP Support Utils [[Marketplace](https://marketplace.visualstudio.com/items?itemName=open-southeners.php-support-utils)] [[Github](https://github.com/open-southeners/vscode-php-support-utils.git)]
 - Better PHPUnit [[Marketplace](https://marketplace.visualstudio.com/items?itemName=calebporzio.better-phpunit)] [[Github](https://github.com/calebporzio/better-phpunit.git)]
 - PHP Debug [[Marketplace](https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug)] [[Github](https://github.com/xdebug/vscode-php-debug.git)]
