@@ -22,7 +22,8 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "bmewburn.vscode-intelephense-client",
+    "DEVSENSE.phptools-vscode",
+    "DEVSENSE.composer-php-vscode",
     "open-southeners.laravel-pint",
     "open-southeners.php-support-utils",
     "calebporzio.better-phpunit",
@@ -32,7 +33,6 @@
     "wayou.vscode-todo-highlight",
     "EditorConfig.EditorConfig",
     "brpaz.contextual-snips",
-    "pixelfear.composer-links",
     "alefragnani.Bookmarks",
     "Kasik96.latte"
   ],
