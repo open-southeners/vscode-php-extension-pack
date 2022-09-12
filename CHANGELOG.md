@@ -6,6 +6,13 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [2.0.0] - 2022-09-12
+
+### Changed
+
+- PHP Intelephense replaced to PHP Tools ([reason behind this is that the extension keeps a very slow maintenance](https://github.com/bmewburn/vscode-intelephense/issues/2245))
+- Composer links replaced to Composer by Devsense
+
 ## [1.1.0] - 2022-06-24
 
 ### Added
